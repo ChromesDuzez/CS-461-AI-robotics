@@ -14,4 +14,18 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<variableList>
+		<variable>
+			<name>LEJOS_NXT_JAVA_HOME</name>
+			<value>file:/D:/Program%20Files%20(x86)/Java/jdk1.8.0_361</value>
+		</variable>
+		<variable>
+			<name>NXJ_HOME</name>
+			<value>file:/D:/Program%20Files%20(x86)/leJOS%20NXJ</value>
+		</variable>
+		<variable>
+			<name>PATH</name>
+			<value>file:/D:/Program%20Files%20(x86)/leJOS%20NXJ/bin</value>
+		</variable>
+	</variableList>
 </projectDescription>
